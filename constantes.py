@@ -1,6 +1,6 @@
 IDADE_MINIMA = 18
 
-STATUS_PROCESSSADO = "processado"
+STATUS_PROCESSADO = "processado"
 STATUS_ERRO = "erro"
 
 MENSAGEM_CLIENTE_VALIDO = "Cliente válido"
